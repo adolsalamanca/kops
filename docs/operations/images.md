@@ -248,6 +248,7 @@ kOps supports owner aliases for the official accounts of supported distros:
 * `amazon` => `137112412989`
 * `debian10` => `136693071363`
 * `debian11` => `136693071363`
+* `debian12` => `136693071363`
 * `flatcar` => `075585003325`
 * `redhat` => `309956199498`
 * `ubuntu` => `099720109477`

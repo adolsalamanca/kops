@@ -2120,6 +2120,8 @@ func resolveImage(ssmClient ssmiface.SSMAPI, ec2Client ec2iface.EC2API, name str
 				owner = WellKnownAccountDebian
 			case "debian11":
 				owner = WellKnownAccountDebian
+			case "debian12":
+				owner = WellKnownAccountDebian
 			case "flatcar":
 				owner = WellKnownAccountFlatcar
 			case "redhat", "redhat.com":
